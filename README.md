@@ -6,6 +6,4 @@ You must have pyhton installed in your coding environment to run this App.
 
 
 
-
-
 Just Import pygame and run.
